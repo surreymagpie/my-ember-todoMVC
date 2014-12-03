@@ -1,0 +1,25 @@
+{
+  "name": "my-ember-todoMVC",
+  "version": "0.0.1",
+  "homepage": "https://github.com/surreymagpie/my-ember-todoMVC",
+  "authors": [
+    "Rob Curtis <surreymagpie@yahoo.co.uk>"
+  ],
+  "description": "The classic todo app",
+  "main": "index.html",
+  "keywords": [
+    "ember",
+    "todo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember-data": "~0.0.14"
+  }
+}
